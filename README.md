@@ -1,2 +1,2 @@
 # factory
-good luck
+bye bye
