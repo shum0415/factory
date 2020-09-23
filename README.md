@@ -1,3 +1,2 @@
 # factory
-hello git!
-aaaabbbb
+good luck
